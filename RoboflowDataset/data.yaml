@@ -1,0 +1,13 @@
+train: /Users/log/Github/FacialRecognition/RoboflowDataset/train/images
+val: /Users/log/Github/FacialRecognition/RoboflowDataset/valid/images
+test: /Users/log/Github/FacialRecognition/RoboflowDataset/test/images
+
+nc: 1
+names: ['face']
+
+roboflow:
+  workspace: yolo-ccdgk
+  project: face-detect-i4e0c
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-ccdgk/face-detect-i4e0c/dataset/4
