@@ -1,4 +1,4 @@
-# FacialRecognition
+# FacialDetection
 
 ![demo of the model using the webcam](assets/demo.gif)
 
